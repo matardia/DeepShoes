@@ -6,4 +6,3 @@ The data used for training the model has been scraped and pre-processed using th
 The models are built from the <code>DeepShoes.ipynb</code> Notebook ran on [Kaggle](https://www.kaggle.com/code/matardia/deepshoes) with our scraped [dataset](https://www.kaggle.com/datasets/matardia/nikeshoes) uploaded.
 
 The <code>backup/</code> folder contains the final versions of the built models, uploaded on [Kaggle](https://www.kaggle.com/datasets/matardia/deepshoes-backup) as well. They are used in this Notebook <code>DeepShoes-usage.ipynb</code> that can be run [here](https://www.kaggle.com/code/matardia/deepshoes-usage) to generate shoes' images and predict their model.
-# DeepShoes
