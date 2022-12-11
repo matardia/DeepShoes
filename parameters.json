@@ -1,0 +1,28 @@
+{
+    "nbr_images": 4,
+    "dest": "other_shoes/",
+    "process": true,
+    "models": [
+        "Nike Air Force 1", 
+        "Nike Air Max 1", 
+        "Nike Air Jordan 1 High", 
+        "Nike Dunk Low"
+    ],
+    "sites": [
+        "goat.com",
+        "flightclub.com",
+        "restocks.net",
+        "kikikickz.com",
+        "klekt.com",
+        "nike.com",
+        "sivasdescalzo.com",
+        "wethenew.com", 
+        "stockx.com", 
+        "courir.com",
+        "endclothing.com",
+        "kith.com",
+        "limitedresell.com",
+        "snipes.fr",
+        "sizeofficial.fr"
+    ]
+}

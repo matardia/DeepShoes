@@ -1,0 +1,6 @@
+numpy
+opencv-python
+rembg
+Pillow
+requests
+selenium
